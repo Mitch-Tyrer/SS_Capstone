@@ -4,7 +4,7 @@ As part of our final project we were split into teams of 4 and presented with a 
 
 For this excercise we were given a virtual lab environment of a network as well as guidance in the form of emails from the CISO. Everything presented here is the final presentation and a complete compiliation of the documentation we created for each part of this project, in the order in which they were completed. All recommendations, remediations, and anaylization is of that virtual enviornment and simulated logs provided to us. 
 
-##The Scenario
+## The Scenario
 
 Recently a company (ACME) suffered a major data breach due to negligence and poor security practices.  In the aftermath their current Cheif Information Security Officer (CISO) resigned over the incident forcing ACME to hire a new CISO to help remediate the data breach.  His first directive was to replace the third-party Security Operations Center (SOC) with his own internal team hiring each us for those roles within ACME.
 
