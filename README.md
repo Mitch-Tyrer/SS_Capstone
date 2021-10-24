@@ -11,6 +11,6 @@ Recently a company (ACME) suffered a major data breach due to negligence and poo
 Our task was to investigate the attack, analyze the current state of ACME's systems and networks, and to create a security brief based on our CISO's directives.  This security brief should be in the form of a slide show presentation, which we would present to ACME Administrators/Managers in 10 days.
 
 
-##What is in this repo
+## What is in this repo
 
 Here are the two final documents I submited as the "Director of IT" for my team.  To view them will require a means to view a PowerPoint Presentation and Word Document
